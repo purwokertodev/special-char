@@ -1,13 +1,26 @@
 {
   "name": "special-char",
   "version": "1.0.0",
-  "description": "Special character",
+  "description": "Special character decoder based on utf8 encoding",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Wuriyanto <wuriyanto48@yahoo.co.id>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wuriyanto48/special-char.git"
+  },
+  "keywords": [
+    "special-char",
+    "encoding",
+    "decoding",
+    "encoder",
+    "decoder",
+    "utf8",
+    "unicode"
+  ],
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.3.0",
