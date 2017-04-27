@@ -1,5 +1,7 @@
 # Special Character
 
+[![Build Status](https://travis-ci.org/wuriyanto48/special-char.svg?branch=master)](https://travis-ci.org/wuriyanto48/special-char)
+
 # Why ?
 Sometimes you need to add **special character** to your string variable, hope this can fix your problem
 
