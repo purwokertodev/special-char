@@ -14,6 +14,19 @@ Sometimes you need to add **special character** to your string variable....
 $ npm install special-char
 ```
 
+- Very simple, just add to your code
+
+```javascript
+let str1 = `Its so cold, i think 10${SC.DEGREE_SIGN} now..`;
+console.log(str1);
+```
+
+- you'll see the following result
+
+```
+Its so cold, i think 10° now..
+```
+
 # How to Contribute
 - Fork first
 - Clone to your local machine
