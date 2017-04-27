@@ -17,6 +17,8 @@ $ npm install special-char
 - Very simple, just add to your code
 
 ```javascript
+const SC = require('special-char');
+
 let str1 = `Its so cold, i think 10${SC.DEGREE_SIGN} now..`;
 console.log(str1);
 ```
@@ -30,6 +32,8 @@ Its so cold, i think 10° now..
 - json
 
 ```javascript
+const SC = require('special-char');
+
 let json = {
   "id": "001",
   "name": "box a",
