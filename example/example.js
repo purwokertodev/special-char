@@ -7,3 +7,6 @@ console.log(str1);
 
 let str2 = `One quarter ${SC.VULGAR_FRACTION_ONE_QUARTER}`;
 console.log(str2);
+
+let str3 = `Sharp ${SC.LATIN_SMALL_LETTER_SHARP_S}`;
+console.log(str3);
