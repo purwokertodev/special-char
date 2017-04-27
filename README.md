@@ -1,5 +1,6 @@
 # Special Character
 
+# Why ?
 Sometimes you need to add **special character** to your string variable, hope this can fix your problem
 
 # Usage
