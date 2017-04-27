@@ -4,8 +4,7 @@
 
 # Why ?
 Sometimes you need to add **special character** to your string variable....
-examples : ¼ µ ¿ Ȝ Φ
-hope can fix your problem
+ **¼ µ ¿ Ȝ Φ** , hope can fix your problem
 
 # Usage
 
