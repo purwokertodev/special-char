@@ -49,6 +49,14 @@ console.log(JSON.stringify(json));
 }
 ```
 
+# Task List
+
+- [x] Basic testing
+- [x] Basic example
+- [x] Travis CI build
+- [ ] Code finish
+- [ ] Full Documentation
+
 # How to Contribute
 - Fork first
 - Clone to your local machine
