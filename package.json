@@ -1,0 +1,16 @@
+{
+  "name": "special-char",
+  "version": "1.0.0",
+  "description": "Special character",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wuriyanto <wuriyanto48@yahoo.co.id>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0",
+    "sinon": "^2.1.0"
+  }
+}
