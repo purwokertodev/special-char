@@ -27,6 +27,28 @@ console.log(str1);
 Its so cold, i think 10° now..
 ```
 
+- json
+
+```javascript
+let json = {
+  "id": "001",
+  "name": "box a",
+  "price": `${SC.POUND_SIGN} 10`
+};
+
+console.log(JSON.stringify(json));
+```
+
+- you'll see the following json result
+
+```
+{
+  "id":"001",
+  "name":"box a",
+  "price":"£ 10"
+}
+```
+
 # How to Contribute
 - Fork first
 - Clone to your local machine

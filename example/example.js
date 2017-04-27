@@ -10,3 +10,11 @@ console.log(str2);
 
 let str3 = `Sharp ${SC.LATIN_SMALL_LETTER_SHARP_S}`;
 console.log(str3);
+
+let json = {
+  "id": "001",
+  "name": "box a",
+  "price": `${SC.POUND_SIGN} 10`
+};
+
+console.log(JSON.stringify(json));
